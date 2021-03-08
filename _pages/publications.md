@@ -5,12 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Preprints
+======
+**Baek, E.C.**, Tamir, D.I., & Falk, E.B. (preprint). Considering others’ mental states causally 
+ 	increases feelings of social bonding and information sharing. 
+ 	https://psyarxiv.com/nw43x/ 
 
-{% include base_path %}
+2021
+======
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+2020
+======
+
+2019
+======
+
+2018
+======
+
+2017
+======
+
