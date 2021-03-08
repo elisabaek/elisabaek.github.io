@@ -17,7 +17,7 @@ Chang, H.Y., Scholz, C., **Baek, E.C.**, O’Donnell, M.B., & Falk, E.C. (in pre
 
 2020
 ======
-**Baek, E.C.**, Porter, M.A., & Parkinson, C. (2020). Social network analysis for social neuroscientists. Social Cognitive and Affective Neuroscience, nasaa069. <a href="https://doi.org/10.1093/scan/nsaa069" target="_blank">Link</a>
+**Baek, E.C.**, Porter, M.A., & Parkinson, C. (2020). Social network analysis for social neuroscientists. Social Cognitive and Affective Neuroscience, nasaa069. <a href="https://doi.org/10.1093/scan/nsaa069" target="_blank">Link</a> <a href="https://github.com/elisabaek/social_network_analysis_tutorial" target="_blank">Tutorials</a>
 
 **Baek, E.C.**, Scholz, C., & Falk, E.B. (2020). The neuroscience of persuasion and information propagation: Key role of the mentalizing system. In K. Floyd & R. Weber (Eds.), _Handbook of Communication Science and Biology_. Routledge.
 
