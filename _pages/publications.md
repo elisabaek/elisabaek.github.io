@@ -10,7 +10,7 @@ Preprints
 **Baek, E.C.**, Tamir, D.I., & Falk, E.B. (preprint). Considering others’ mental states causally increases feelings of social bonding and information sharing. 
  	https://psyarxiv.com/nw43x/ 
   
-**Baek, E.C.**, Hyon, R., Porter, M.A., & Parkinson, C. (preprint). How do our brains support our real-life friendships https://osf.io/preprints/socarxiv/vy2jr/ *This article is written for young audiences (pre-teens and teens).*
+**Baek, E.C.**, Hyon, R., Porter, M.A., & Parkinson, C. (preprint). How do our brains support our real-life friendships https://osf.io/preprints/socarxiv/vy2jr/ *Note: This article is written for young audiences (pre-teens and teens).*
 
 2021
 ======
