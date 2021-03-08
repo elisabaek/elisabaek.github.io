@@ -21,8 +21,8 @@ Research Areas
 
 * Neural correlates of subjective and objective social (dis)connection
   * Are individuals who are well-connected in a social network distinguished in the way that they process the world around them?
-  * How do individuals who experience subjective disconnection (e.g., loneliness) see the world around them, compared to others in their social circles?
-  * Are well-connected or less well-connected individuals at greater risk for social influence, or greater sensitiity to negative social experiences?
+  * How do individuals who experience subjective disconnection (e.g., loneliness) see the world around them compared to others in their social circles?
+  * Are well-connected or less well-connected individuals at a greater risk for social influence/sensitivity to negative social experiences?
 
 * Social influence and persuasion
   * What distinguishes a successful communicator/persuader?
