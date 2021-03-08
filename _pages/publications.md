@@ -7,10 +7,9 @@ author_profile: true
 
 Preprints
 ======
-**Baek, E.C.**, Tamir, D.I., & Falk, E.B. (preprint). Considering others’ mental states causally increases feelings of social bonding and information sharing. 
- 	<a href="https://psyarxiv.com/nw43x/" target="_blank">Link</a>
+**Baek, E.C.**, Tamir, D.I., & Falk, E.B. (preprint). Considering others’ mental states causally increases feelings of social bonding and information sharing. <a href="https://psyarxiv.com/nw43x/" target="_blank">Link</a>
   
-**Baek, E.C.**, Hyon, R., Porter, M.A., & Parkinson, C. (preprint). How do our brains support our real-life friendships <a href="https://osf.io/preprints/socarxiv/vy2jr/" target="_blank">Link</a>*Note: This article is written for young audiences (pre-teens and teens).*
+**Baek, E.C.**, Hyon, R., Porter, M.A., & Parkinson, C. (preprint). How do our brains support our real-life friendships <a href="https://osf.io/preprints/socarxiv/vy2jr/" target="_blank">Link</a> *Note: This article is written for young audiences (pre-teens and teens).*
 
 2021
 ======
@@ -30,10 +29,14 @@ Scholz, C., **Baek, E.C.**, O’Donnell, M. B., & Falk, E. B. (2020). Decision-m
 
 2019
 ======
+Doré, B.P., Scholz, C., **Baek, E.C.**, Garcia, J.O., O’Donnell, M.B., Bassett, D.S., Vettel, J.M., & Falk, E.B. (2019). Brain activity predicts population information sharing by capturing consensus judgments of value. Cerebral Cortex, _29_(7). <a href="https://doi.org/10.1093/cercor/bhy176" target="_blank">Link</a>
 
 2018
 ======
+**Baek, E.C.** & Falk, E.B. (2018). Persuasion and Influence: What makes a successful persuader? Current Opinion in Psychology, _24_, 53-57. <a href="https://doi.org/10.1016/j.copsyc.2018.05.004" target="_blank">Link</a>
 
 2017
 ======
+**Baek, E.C.**, Scholz, C., O’Donnell M.B., & Falk, E.B. (2017). Neural correlates of selecting and sharing information. Psychological Science, 28(7), 851-861. <a href="https://doi.org/10.1177/0956797617695073" target="_blank">Link</a>
 
+Scholz, C., **Baek, E.C.**, O’Donnell M.B., Kim, H.S., Cappella, J.N., & Falk, E.B. (2017). A neural model of valuation and information virality. Proceedings of the National Academy of Sciences, 114(11), 2881-2886. <a href="http://doi.org/10.1073/pnas.1615259114" target="_blank">Link</a>
