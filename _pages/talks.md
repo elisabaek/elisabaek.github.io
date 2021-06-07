@@ -8,10 +8,9 @@ author_profile: true
 Upcoming
 ======
 
-June 7, 2021. CogniTalks. <a href="https://cognito-uva.com/cognitalks/" target="_blank">Link</a>
-
 2021
 ======
+June 7, 2021. CogniTalks. <a href="https://cognito-uva.com/cognitalks/" target="_blank">Link</a>
 
 April 21, 2021. Innovators in Cognitive Neuroscience. <a href="https://www.youtube.com/watch?v=ZvimRyCPa2k&ab_channel=InnovatorsCogNeuro" target="_blank">Link to Video</a>
 
