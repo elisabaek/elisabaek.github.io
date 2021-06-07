@@ -17,7 +17,7 @@ Preprints
 ======
 **Baek, E.C.**, O’Donnell, M.B., Scholz, C., Pei, R., Garcia, J.O., Vettel, J.M., & Falk, E.B. (2021). Activity in the brain’s valuation and mentalizing networks is associated with propagation of online recommendations. Scientific Reports, 11(1), 11196. <a href="https://www.nature.com/articles/s41598-021-90420-2" target="_blank">Link</a>
 
-Chang, H.Y., Scholz, C., **Baek, E.C.**, O’Donnell, M.B., & Falk, E.C. (2021). Being the gatekeeper: How thinking about sharing affects neural encoding of information. Cerebral Cortex, bhab060. <a href="https://doi.org/10.1093/cercor/bhab060" target="_blank">Link</a>
+Chang, H.Y., Scholz, C., **Baek, E.C.**, O’Donnell, M.B., & Falk, E.B. (2021). Being the gatekeeper: How thinking about sharing affects neural encoding of information. Cerebral Cortex, bhab060. <a href="https://doi.org/10.1093/cercor/bhab060" target="_blank">Link</a>
 
 2020
 ======
