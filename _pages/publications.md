@@ -7,15 +7,17 @@ author_profile: true
 
 Preprints
 ======
+**Baek, E.C.**, Hyon, R., López, K., Finn, E.S., Porter, M.A., & Parkinson, C. (preprint). Popularity is linked to neural coordination: Neural evidence for an Anna Karenina principle in social networks. <a href="https://psyarxiv.com/6fj2p/" target="_blank">Link</a>
+
 **Baek, E.C.**, Tamir, D.I., & Falk, E.B. (preprint). Considering others’ mental states causally increases feelings of social bonding and information sharing. <a href="https://psyarxiv.com/nw43x/" target="_blank">Link</a>
   
-**Baek, E.C.**, Hyon, R., Porter, M.A., & Parkinson, C. (preprint). How do our brains support our real-life friendships <a href="https://osf.io/preprints/socarxiv/vy2jr/" target="_blank">Link</a> *Note: This article is written for young audiences (pre-teens and teens).*
+**Baek, E.C.**, Hyon, R., Porter, M.A., & Parkinson, C. (preprint). How do our brains support our real-life friendships. <a href="https://osf.io/preprints/socarxiv/vy2jr/" target="_blank">Link</a> <br>*Note: This article is written for young audiences (pre-teens and teens).*
 
 2021
 ======
-**Baek, E.C.**, O’Donnell, M.B., Scholz, C., Pei, R., Garcia, J.O., Vettel, J.M., & Falk, E.B. (in press). Activity in the brain’s valuation and mentalizing networks is associated with propagation of online recommendations. Scientific Reports.
+**Baek, E.C.**, O’Donnell, M.B., Scholz, C., Pei, R., Garcia, J.O., Vettel, J.M., & Falk, E.B. (2021). Activity in the brain’s valuation and mentalizing networks is associated with propagation of online recommendations. Scientific Reports, 11(1), 11196. <a href="https://www.nature.com/articles/s41598-021-90420-2" target="_blank">Link</a>
 
-Chang, H.Y., Scholz, C., **Baek, E.C.**, O’Donnell, M.B., & Falk, E.C. (in press). Being the gatekeeper: How thinking about sharing affects neural encoding of information. Cerebral Cortex.
+Chang, H.Y., Scholz, C., **Baek, E.C.**, O’Donnell, M.B., & Falk, E.C. (2021). Being the gatekeeper: How thinking about sharing affects neural encoding of information. Cerebral Cortex, bhab060. <a href="https://doi.org/10.1093/cercor/bhab060" target="_blank">Link</a>
 
 2020
 ======
