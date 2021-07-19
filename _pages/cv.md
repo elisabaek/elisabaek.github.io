@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download full CV <a href="http://elisabaek.github.io/files/CV_ElisaBaek.pdf" target="_blank">here</a>. Updated: 6/7/21
+Download full CV <a href="http://elisabaek.github.io/files/CV_ElisaBaek.pdf" target="_blank">here</a>. Updated: 7/19/21
 
 Education
 ======
@@ -24,3 +24,4 @@ Professional Affiliations
 * Society for Personality and Social Psychology (SPSP)
 * Society for Social Neuroscience (S4SN)
 * Society for Affective Science (SAS)
+* Society for Neuroscience (SfN)
