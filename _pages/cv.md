@@ -19,9 +19,9 @@ Education
 
 Professional Affiliations
 ======
-* Social and Affective Neuroscience Society (SANS)
 * International Communication Association (ICA)
-* Society for Personality and Social Psychology (SPSP)
-* Society for Social Neuroscience (S4SN)
+* Social and Affective Neuroscience Society (SANS)
 * Society for Affective Science (SAS)
 * Society for Neuroscience (SfN)
+* Society for Personality and Social Psychology (SPSP)
+* Society for Social Neuroscience (S4SN)
