@@ -9,7 +9,7 @@ Preprints
 ======
 **Baek, E.C.**, Hyon, R., López, K., Porter, M.A., & Parkinson, C. (preprint). Lonely individuals process the world in idiosyncratic ways. <a href="https://psyarxiv.com/yt872/" target="_blank">Link</a>
 
-**Baek, E.C.**, Hyon, R., López, K., Finn, E.S., Porter, M.A., & Parkinson, C. (preprint). Popularity is linked to neural coordination: Neural evidence for an Anna Karenina principle in social networks. <a href="https://psyarxiv.com/6fj2p/" target="_blank">Link</a>
+**Baek, E.C.**, Hyon, R., López, K., Finn, E.S., Porter, M.A., & Parkinson, C. (preprint; accepted in principle at *Nature Communications*). Popular individuals process the world in particularly normative ways. <a href="https://psyarxiv.com/6fj2p/" target="_blank">Link</a>
 
 **Baek, E.C.**, Tamir, D.I., & Falk, E.B. (preprint). Considering others’ mental states causally increases feelings of social bonding and information sharing. <a href="https://psyarxiv.com/nw43x/" target="_blank">Link</a>
   
