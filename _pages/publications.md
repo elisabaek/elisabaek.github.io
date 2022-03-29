@@ -15,7 +15,7 @@ Preprints
 
 2022
 ======
-**Baek, E.C.**, Hyon, R., López, K., Finn, E.S., Porter, M.A., & Parkinson, C. (in press). In-degree centrality in a social network is linked to coordinated neural activity. Nature Communications.
+**Baek, E.C.**, Hyon, R., López, K., Finn, E.S., Porter, M.A., & Parkinson, C. (in press). In-degree centrality in a social network is linked to coordinated neural activity. Nature Communications. <a href="https://www.nature.com/articles/s41467-022-28432-3" target="_blank">Link</a>
 
 2021
 ======
