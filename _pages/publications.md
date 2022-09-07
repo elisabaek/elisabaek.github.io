@@ -11,11 +11,14 @@ Preprints
 
 **Baek, E.C.**, Tamir, D.I., & Falk, E.B. (preprint). Considering others’ mental states causally increases feelings of social bonding and information sharing. <a href="https://psyarxiv.com/nw43x/" target="_blank">Link</a>
   
-**Baek, E.C.**, Hyon, R., Porter, M.A., & Parkinson, C. (preprint). How do our brains support our real-life friendships. <a href="https://osf.io/preprints/socarxiv/vy2jr/" target="_blank">Link</a> <br>*Note: This article is written for young audiences (pre-teens and teens).*
-
 2022
 ======
 **Baek, E.C.**, Hyon, R., López, K., Finn, E.S., Porter, M.A., & Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. Nature Communications, 13, 1118. <a href="https://www.nature.com/articles/s41467-022-28432-3" target="_blank">Link</a>
+
+Matz, S.C., Hyon, R., **Baek, E.C.**, Parkinson, C., & Cerf, M. (2022). Personality similarity predicts synchronous neural responses in fMRI and EEG data. Scientific Reports, 12, 14325. <a href="https://doi.org/10.1038/s41598-022-18237-1" target="_blank">Link</a> 
+
+**Baek, E.C.**, Hyon, R., Porter, M.A., & Parkinson, C. (2022). How do our brains support our real-life friendships. <a href="https://kids.frontiersin.org/articles/10.3389/frym.2022.640262" target="_blank">Link</a> <br>*Note: This article is written for young audiences (pre-teens and teens).*
+
 
 2021
 ======
