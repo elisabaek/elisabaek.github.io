@@ -13,7 +13,7 @@ Preprints
 ======
 **Baek, E.C.**, Hyon, R., López, K., Du, M., Porter, M.A., & Parkinson, C. (in press). Lonely individuals process the world in idiosyncratic ways. Psychological Science. <a href="https://psyarxiv.com/yt872/" target="_blank">Preprint</a>
 
-**Baek, E.C.** & Parkinson, C. (2022). Shared understanding and social connection: Integrating approaches from social psychology, social network analysis, and neuroscience. Social and Personality Psychology Compass. <a href="https://compass.onlinelibrary.wiley.com/doi/full/10.1111/spc3.12710" target="_blank">Link</a>
+**Baek, E.C.** & Parkinson, C. (2022). Shared understanding and social connection: Integrating approaches from social psychology, social network analysis, and neuroscience. Social and Personality Psychology Compass, e12710. <a href="https://compass.onlinelibrary.wiley.com/doi/full/10.1111/spc3.12710" target="_blank">Link</a>
 
 **Baek, E.C.**, Hyon, R., López, K., Finn, E.S., Porter, M.A., & Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. Nature Communications, 13, 1118. <a href="https://www.nature.com/articles/s41467-022-28432-3" target="_blank">Link</a>
 
