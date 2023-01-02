@@ -11,9 +11,9 @@ redirect_from:
 Elisa: <i>pronounced like "Melissa" without the "M"</i><br>
 Baek: <i>pronounced "Bek"</i>
 
-Elisa C. Baek, Ph.D. is currently a postdoctoral fellow at the Department of Psychology at the University of California, Los Angeles, and will be joining the Department of Psychology at the University of Southern California as an Assistant Professor starting January 2023. Her primary affiliation is with the <a href="http://csnlab.org/" target="_blank">Computational Social Neuroscience Lab</a>. She received her Ph.D. from the University of Pennsylvania in 2019. She uses neuroimaging and network analysis to study various facets of social connection, such as what helps people feel connected to others, what distinguishes people who are great at connecting with others, and the factors that contribute to social disconnection. Some of her prior and ongoing work investigates the neural and psychological drivers of information sharing, the associations between subjective and objective social (dis)connection and neural responses, and the neural correlates of social influence. She is also interested in persuasion and message effects, particularly in the health domain, such as what makes messages more persuasive and effective.
+Elisa C. Baek, Ph.D. (she/her) is currently an Assistant Professor at the Department of Psychology at the University of Southern California. She uses neuroimaging and network analysis to study various facets of social connection, such as what helps people feel connected to others, what distinguishes people who are great at connecting with others, and the factors that contribute to social disconnection. Some of her prior and ongoing work investigates the neural and psychological drivers of information sharing, the associations between subjective and objective social (dis)connection and neural responses, and the neural correlates of social influence. She is also interested in persuasion and message effects, particularly in the health domain, such as what makes messages more persuasive and effective.
 
-Note: My new lab at USC will be recruiting graduate students and a postdoc for Fall of 2023. 
+Note: My lab is recruiting a lab manager and a postdoctoral scholar for Fall of 2023.
 
 Research Areas
 ======
