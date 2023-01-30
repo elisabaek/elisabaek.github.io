@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download full CV <a href="http://elisabaek.github.io/files/CV_ElisaBaek.pdf" target="_blank">here</a>. Updated: October 25, 2022
+Download full CV <a href="http://elisabaek.github.io/files/CV_ElisaBaek.pdf" target="_blank">here</a>. Updated: January 30, 2023
 
 Education
 ======
