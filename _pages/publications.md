@@ -8,10 +8,17 @@ author_profile: true
 Preprints
 ======
 **Baek, E.C.**, Tamir, D.I., & Falk, E.B. (preprint). Considering others’ mental states causally increases feelings of social bonding and information sharing. <a href="https://psyarxiv.com/nw43x/" target="_blank">Link</a>
-  
-2022
+
+2023
 ======
 **Baek, E.C.**, Hyon, R., López, K., Du, M., Porter, M.A., & Parkinson, C. (in press). Lonely individuals process the world in idiosyncratic ways. Psychological Science. <a href="https://psyarxiv.com/yt872/" target="_blank">Preprint</a>
+
+Scholz, C., **Baek, E.C.**, & Falk, E.B. (in press). Invoking self-related and social thoughts impacts online information sharing. Social Cognitive and Affective Neuroscience.
+
+Kim, H., Kwak, S., **Baek, E.C.**, Baldina, E., Youm, Y., & Chey, J. (in press). Brain connectivity during social exclusion differs depending on intimacy with rejecters among older adults living in a village. Social Cognitive and Affective Neuroscience.
+
+2022
+======
 
 **Baek, E.C.** & Parkinson, C. (2022). Shared understanding and social connection: Integrating approaches from social psychology, social network analysis, and neuroscience. Social and Personality Psychology Compass, e12710. <a href="https://compass.onlinelibrary.wiley.com/doi/full/10.1111/spc3.12710" target="_blank">Link</a>
 
