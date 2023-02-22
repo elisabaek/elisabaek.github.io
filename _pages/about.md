@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Elisa C. Baek, Ph.D. (she/her) is currently an Assistant Professor at the Department of Psychology at the University of Southern California. Please visit the lab website: www.socolab.org for up-to-date information.
+Elisa C. Baek, Ph.D. (she/her) is currently an Assistant Professor at the Department of Psychology at the University of Southern California. 
+
+Please visit the lab website: www.socolab.org for up-to-date information.
